@@ -95,8 +95,7 @@ button{
     border-radius: 2px;
     height: 26px;
     width: 25%;
-
-    font-family: monospace;
+    font-family: "Roboto", sans-serif;
     letter-spacing: 1px;
 }
 
@@ -131,7 +130,7 @@ button:active{
 }
 
 .under_rubrik{
-   font-family: monospace;
+   font-family: "Roboto", sans-serif;
 }
 .nere{
     display: flex;
